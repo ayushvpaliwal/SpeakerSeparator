@@ -1,4 +1,4 @@
-# SpeakerDiarization
+# SpeakerSeparator
 Speaker Diarization is the problem of separating speakers in an audio. There could be any number of speakers and final result should state when speaker starts and ends. In this project, we analyze given audio file with 2 channels and 2 speakers (on separate channel). We train Neural Network for learning when a person is speaking. We use different type of Neural Networks specifically,Recurrent Neural Network (RNN) and Convolution Neural Network (CNN) we achieve 92% of accuracy with RNN. 
 
 
